@@ -51,3 +51,7 @@ manage.py
 
 # environments
 .env
+
+# bd
+postgres-data/
+

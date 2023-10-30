@@ -3,3 +3,5 @@ djangorestframework
 drf-yasg
 djangorestframework-simplejwt
 python-decouple
+psycopg2-binary
+Pillow

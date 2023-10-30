@@ -1,0 +1,136 @@
+[
+  {
+    "model": "institutions.Sector",
+    "pk": 1,
+    "fields": {
+      "name": "Público"
+    }
+  },
+  {
+    "model": "institutions.Sector",
+    "pk": 2,
+    "fields": {
+      "name": "Privado"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 1,
+    "fields": {
+      "name": "Cozumel"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 2,
+    "fields": {
+      "name": "Felipe Carrillo Puerto"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 3,
+    "fields": {
+      "name": "Isla Mujeres"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 4,
+    "fields": {
+      "name": "Othón P. Blanco"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 5,
+    "fields": {
+      "name": "Benito Juárez"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 6,
+    "fields": {
+      "name": "José María Morelos"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 7,
+    "fields": {
+      "name": "Lázaro Cárdenas"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 8,
+    "fields": {
+      "name": "Solidaridad"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 9,
+    "fields": {
+      "name": "Tulum"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 10,
+    "fields": {
+      "name": "Bacalar"
+    }
+  },
+  {
+    "model": "institutions.Municipality",
+    "pk": 11,
+    "fields": {
+      "name": "Puerto Morelos"
+    }
+  },
+  {
+    "model": "institutions.InstitutionType",
+    "pk": 1,
+    "fields": {
+      "name": "Universidad"
+    }
+  },
+  {
+    "model": "institutions.InstitutionType",
+    "pk": 2,
+    "fields": {
+      "name": "Preparatoria"
+    }
+  },
+  {
+    "model": "institutions.Status",
+    "pk": 1,
+    "fields": {
+      "name": "Solicitado"
+    }
+  },
+  {
+    "model": "institutions.Status",
+    "pk": 2,
+    "fields": {
+      "name": "Pendiente"
+    }
+  },
+  {
+    "model": "institutions.Status",
+    "pk": 3,
+    "fields": {
+      "name": "Aprobado"
+    }
+  },
+  {
+    "model": "institutions.Status",
+    "pk": 4,
+    "fields": {
+      "name": "Negado"
+    }
+  }
+]
+
